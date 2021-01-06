@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.3",
-    "axios": "^0.19.2",
+    "axios": ">=0.21.1",
     "easy-peasy": "^3.3.0",
     "jwt-decode": "2.2.0",
     "react": "^16.13.0",
